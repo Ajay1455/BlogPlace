@@ -25,9 +25,4 @@ A blog website built with React, Node.js, and MySQL. This project allows users t
 - bcrypt.js: A library for hashing passwords.
 - Multer: A middleware for handling multipart/form-data, primarily used for file uploads.
 
-## Installation
 
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/your-username/blog-website.git
